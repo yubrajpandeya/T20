@@ -1,38 +1,68 @@
-# IPL 2024 Live Streaming
+Certainly! Below is a sample README file for a GitHub repository related to T20 World Cup live match streaming. Feel free to customize it further based on your specific project details:
 
-The IPL 2024 craze is back! This is a simple web application for streaming live IPL matches in various languages. Users can select their preferred language and enjoy live cricket matches hassle-free.
+---
 
-**Live: https://yubrajpandeya.github.io/IPL/ **
+# T20 World Cup 2024 Streaming Web Application
+
+![T20 World Cup](https://i.pinimg.com/originals/20/80/ba/2080ba41145ec3d94c4ccd354e18c476.png)
+
+This is a Next.js project that provides essential web application features for streaming all the matches in the T20 World Cup 2024. The application is built using Next.js, TypeScript, and Tailwind CSS.
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yubrajpandeya/T20.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Features
 
-- **Live Streaming**: Watch IPL matches live in real-time.
-- **Language Selection**: Choose from multiple languages including Hindi, English, Gujarati, Kannada, Marathi, Malayalam, Punjabi, Bhojpuri, Bengali, Tamil, Telugu, and Odia.
-- **User-Friendly Interface**: Simple and intuitive interface for seamless navigation.
-- **Full-Screen Mode**: Enjoy matches in full-screen mode for an immersive experience.
-- **Responsive Design**: Works well on both desktop and mobile devices.
+- Stream all T20 World Cup 2024 matches.
+- Responsive design using Tailwind CSS.
+- Automatic font optimization with Inter (a custom Google Font).
 
-## TODO 🗒️
-  - Live IPL Points Table
-  - Score Card
-  - Next Match Schedule
-  - Previous Match Results
+## Learn More
 
-## Usage
+To learn more about Next.js, take a look at the following resources:
 
-1. Visit **[IPL 2024 Streaming]((https://yubrajpandeya.github.io/IPL/))** in your web browser.
-2. Select your preferred language from the dropdown menu.
-3. Click the "Play" button to start streaming the live match.
-4. Use the "Full Screen" button for a better viewing experience.
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - An interactive Next.js tutorial.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js. Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
+Feedback and contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Credits
+---
 
-This project utilizes [HLS.js](https://github.com/video-dev/hls.js/) for streaming HLS videos.
+You can find the actual repository here: [T20 World Cup 2024 Streaming Repository](https://github.com/yubrajpandeya/T20.git)
 
-## License
+Happy coding! 🏏📺
 
-This project is licensed under the [GNU](LICENSE) General Public License v3.0.
+Source: Conversation with Copilot, 6/4/2024
+(1) Including all the matches in T-20 world cup 2024 streaming ... - GitHub. https://github.com/ChamiduDev-5224/t20wc-2024-stream-lk.
+(2) T20 Match Score Predictor - GitHub. https://github.com/rajatrawal/t20-score-predictor.
+(3) GitHub - sunnyhere65/t20-world-cup-2022-analysis: An open-source .... https://github.com/sunnyhere65/t20-world-cup-2022-analysis.
+(4) t20-world-cup · GitHub Topics · GitHub. https://github.com/yubrajpandeya/T20.git
+(5) undefined. https://github.com/yubrajpandeya/T20.git
+(6) GitHub - Yubraj Pandeya/T20-World-Cup-Data-Analysis. https://github.com/yubrajpandeya/T20.git.
