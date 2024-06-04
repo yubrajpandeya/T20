@@ -1,4 +1,4 @@
-Certainly! Below is a sample README file for a GitHub repository related to T20 World Cup live match streaming. Feel free to customize it further based on your specific project details:
+Certainly! Below is a sample README file for a GitHub repository related to T20 World Cup live match streaming.
 
 ---
 
