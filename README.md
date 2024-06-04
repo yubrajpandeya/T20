@@ -58,11 +58,6 @@ Feedback and contributions are welcome! Feel free to open issues or submit pull 
 You can find the actual repository here: [T20 World Cup 2024 Streaming Repository](https://github.com/yubrajpandeya/T20.git)
 
 Happy coding! 🏏📺
-
-Source: Conversation with Copilot, 6/4/2024
-(1) Including all the matches in T-20 world cup 2024 streaming ... - GitHub. https://github.com/ChamiduDev-5224/t20wc-2024-stream-lk.
-(2) T20 Match Score Predictor - GitHub. https://github.com/rajatrawal/t20-score-predictor.
-(3) GitHub - sunnyhere65/t20-world-cup-2022-analysis: An open-source .... https://github.com/sunnyhere65/t20-world-cup-2022-analysis.
 (4) t20-world-cup · GitHub Topics · GitHub. https://github.com/yubrajpandeya/T20.git
 (5) undefined. https://github.com/yubrajpandeya/T20.git
 (6) GitHub - Yubraj Pandeya/T20-World-Cup-Data-Analysis. https://github.com/yubrajpandeya/T20.git.
